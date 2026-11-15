@@ -1,0 +1,19 @@
+# Excluir la carpeta de datos de Kaggle para evitar superar los límites de GitHub
+data/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+**/__pycache__/
+*.py[cod]
+
+# Archivos del sistema y outputs locales pesados
+outputs/splits/
+outputs/*.pkl
+outputs/*.png
