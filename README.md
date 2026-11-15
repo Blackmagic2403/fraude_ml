@@ -20,8 +20,8 @@ Antes de comenzar, asegúrate de tener instalado en tu computadora una de las si
 
 1. Abre la terminal de tu sistema operativo (PowerShell o CMD en Windows, Terminal en macOS/Linux) y clona este repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd mi-proyecto-fraude
+   git clone https://github.com/Blackmagic2403/fraude_ml.git
+   cd fraude_ml
    ```
 
 2. Crea la estructura básica de carpetas requerida en la raíz del proyecto si no existe:
